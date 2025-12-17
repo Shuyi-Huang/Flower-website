@@ -19,47 +19,57 @@ GitHub Pages — [Live deployment for easy access](https://shuyi-huang.github.io
 
 ✨ Key Features
 
-Home page
+1. Home page
+
 
 ![image alt](https://github.com/Shuyi-Huang/Flower-website/blob/c18eaa1c1acb712474dd713f2af359b50620a502/screenshot/home%20page.png)
 
 
-Home page continue
+2. Home page continue
+
 
 ![image alt](https://github.com/Shuyi-Huang/Flower-website/blob/d10e9d4952c9b5bc65d12a870e15663326307f87/screenshot/home-continue.png)
 
 
-Our shop
+3. Our shop
+
 
 ![image alt](https://github.com/Shuyi-Huang/Flower-website/blob/d10e9d4952c9b5bc65d12a870e15663326307f87/screenshot/our%20shop0.png)
 
-Our shop continue
+4. Our shop continue
+
 
 ![image alt](https://github.com/Shuyi-Huang/Flower-website/blob/d10e9d4952c9b5bc65d12a870e15663326307f87/screenshot/our%20shop%20continue.png)
 
-Our shop continue
+5. Our shop continue
+
 
 ![image alt](https://github.com/Shuyi-Huang/Flower-website/blob/d10e9d4952c9b5bc65d12a870e15663326307f87/screenshot/our%20shop.png)
 
-New arrivels
+6. New arrivels
+
 
 ![image alt](https://github.com/Shuyi-Huang/Flower-website/blob/d10e9d4952c9b5bc65d12a870e15663326307f87/screenshot/new-arrives.png)
 
-New arrivels continue
+7. New arrivels continue
+
 
 ![image alt](https://github.com/Shuyi-Huang/Flower-website/blob/d10e9d4952c9b5bc65d12a870e15663326307f87/screenshot/new-arrivels%20continue.png)
 
 
-Our story
+8. Our story
+
 
 ![image alt](https://github.com/Shuyi-Huang/Flower-website/blob/d10e9d4952c9b5bc65d12a870e15663326307f87/screenshot/our%20story.png)
 
-Contact us
+9. Contact us
+    
 
 ![image alt](https://github.com/Shuyi-Huang/Flower-website/blob/d10e9d4952c9b5bc65d12a870e15663326307f87/screenshot/contact%20us.png)
 
 
-User login
+
+10.User login
 
 ![image alt](https://github.com/Shuyi-Huang/Flower-website/blob/d10e9d4952c9b5bc65d12a870e15663326307f87/screenshot/user%20login.png)
 
