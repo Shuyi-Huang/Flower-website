@@ -18,3 +18,5 @@ GitHub Pages — [Live deployment for easy access](https://shuyi-huang.github.io
 
 
 ✨ Key Features
+Home page
+![image alt](https://github.com/Shuyi-Huang/Flower-website/blob/c18eaa1c1acb712474dd713f2af359b50620a502/screenshot/home%20page.png)
